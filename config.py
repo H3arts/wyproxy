@@ -7,7 +7,7 @@ show_cnt = 15
 mysqldb_conn = {
     'host' : 'localhost',
     'user' : 'root',
-    'password' : '',
+    'password' : '1',
     'db' : 'wyproxy',
     'charset' : 'utf8'
 }

@@ -1,0 +1,6 @@
+# python
+*.py[cod]
+*.egg
+*.egg-info
+*.zip
+config.py
